@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236240507039",
+    "project_id": "wemeet-df024",
+    "storage_bucket": "wemeet-df024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236240507039:android:7cbd5be56b5cc92a78d2aa",
+        "android_client_info": {
+          "package_name": "com.TejashS.wemeett"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236240507039-8qosm3tbnp2idl1jea7uqvtf97d35hre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJODybr5dVW7k0YTVen6iIROf8hfZ3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236240507039-8qosm3tbnp2idl1jea7uqvtf97d35hre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
